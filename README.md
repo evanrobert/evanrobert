@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there Im Evan, a backend software engineer. 👋
 
-<!--
-**evanrobert/evanrobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### Technologies i am proficent in include :
 
-Here are some ideas to get you started:
+- **Languages:** java, kotlin
+- **Frameworks:** Spring Boot
+- **Databases:** MySQL
+- **Version Control:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Im currently working on a sportsCard API that allows user to Create, track and manage their sportsCards. 🏀⚽️🏈⚾️
+
+### I make sure to keep learning each day, to improve and expand my knowledge and skillsets 🧠
+🏀
+![image](https://github.com/evanrobert/evanrobert/assets/112796625/e320dc83-f016-4a75-bd47-3c4be4bbbd67)
+
+
+
+
