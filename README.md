@@ -1,9 +1,9 @@
 ## 👋 Hi there! I’m Evan, a Software Engineer and Population Health Analyst with a passion for impactful, data-driven solutions. I specialize in backend development, data analysis, and health informatics, using technology to improve decision-making.
 
 ## 🔧 Technologies & Skills
-**Languages:** - Java, R, Python, Kotlin, SQL, MySQL
-**Frameworks:** - Spring Boot, Thymeleaf
-**Tools:** - Git, Microsoft365R
+- **Languages:** Java, R, Python, Kotlin, SQL, MySQL
+- **Frameworks:** Spring Boot, Thymeleaf
+- **Tools:** Git, Microsoft365R
 
 ## 🚀 Projects
 - **Fitness Tracker** – A Spring Boot app for daily nutrition logging and macro tracking.
